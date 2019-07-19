@@ -1,0 +1,3 @@
+https://github.com/hexchat/hexchat.git
+https://github.com/libexpat/libexpat.git
+https://github.com/libusb/libusb.git

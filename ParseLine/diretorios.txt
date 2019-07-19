@@ -1,0 +1,4 @@
+C:\Projeto\
+C:\Analise\
+C:\Codigos\Engenharia_Software\
+C:\Users\amarq\eclipse-workspace\ParseLine\repos.txt
